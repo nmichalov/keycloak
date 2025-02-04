@@ -158,7 +158,7 @@
 
         <!-- Databases - also published to db.adoc as "Tested Version" -->
         <mysql.version>8.0</mysql.version>
-        <mysql-jdbc.version>8.3.0</mysql-jdbc.version>
+        <mysql-jdbc.version>9.2.0</mysql-jdbc.version>
         <postgresql.version>16</postgresql.version>
         <aurora-postgresql.version>16.1</aurora-postgresql.version>
         <aws-jdbc-wrapper.version>2.3.1</aws-jdbc-wrapper.version>
@@ -282,7 +282,7 @@
         </developer>
     </developers>
 
-    <contributors></contributors>
+    <contributors/>
 
     <modules>
         <module>boms</module>
